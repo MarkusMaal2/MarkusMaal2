@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is a GitHub repository I use for educational purposes (i.e. creating stuff for school, practice, etc.). My main profile is [MarkusMaal](https://github.com/MarkusMaal), where I publish repositories during my spare time. This helps me to organize repositories better.
 <!--
 **MarkusMaal2/MarkusMaal2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
